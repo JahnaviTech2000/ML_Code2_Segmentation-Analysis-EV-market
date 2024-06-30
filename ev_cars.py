@@ -26,4 +26,5 @@ sns.heatmap(make_stats_pivot, annot=True, cmap='viridis')
 plt.title('Heat Map of Average Electric Range and Base MSRP by Car Make')
 
 # Show the plot
+
 plt.show()
